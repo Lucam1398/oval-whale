@@ -5,9 +5,9 @@ params:
   color_scheme: dark
   accent_color: green
   header:
-    title: LUCA MARIANI
+    title: LUCA
     has_nav: true
-    logo_img: "/images/untitled (2).svg"
+    logo_img: ''
   footer:
     content: "&copy; Stackbit-Exto. All rights reserved."
     links:
