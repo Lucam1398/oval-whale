@@ -3,9 +3,9 @@ title: Stackbit Exto Theme
 baseURL: "/"
 params:
   color_scheme: dark
-  accent_color: pink
+  accent_color: green
   header:
-    title: Exto
+    title: LUCA MARIANI
     has_nav: true
   footer:
     content: "&copy; Stackbit-Exto. All rights reserved."
